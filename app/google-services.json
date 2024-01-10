@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1047309174244",
+    "firebase_url": "https://chatboxtest2-default-rtdb.firebaseio.com",
+    "project_id": "chatboxtest2",
+    "storage_bucket": "chatboxtest2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047309174244:android:d8449851cfecf6b8eef3f1",
+        "android_client_info": {
+          "package_name": "com.example.chatbox_test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbi38KlNhvpjGEpM1aOOPuXgpkGFItN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047309174244:android:e84e0b8c228259dfeef3f1",
+        "android_client_info": {
+          "package_name": "com.example.chatboxtest2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbi38KlNhvpjGEpM1aOOPuXgpkGFItN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
